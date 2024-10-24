@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://mawopugu.github.io/sitemap/sitemap_index.mawopugu
+Sitemap: https://mawopugu.github.io/xip/sitemap_index.mawopugu
+Sitemap: https://mawopugu.github.io/uXW/sitemap_index.mawopugu
+Sitemap: https://mawopugu.github.io/gay/sitemap_index.mawopugu
+Sitemap: https://mawopugu.github.io/OaW/sitemap_index.mawopugu
+Sitemap: https://mawopugu.github.io/suE/sitemap_index.mawopugu
+Sitemap: https://mawopugu.github.io/nxj/sitemap_index.mawopugu
+Sitemap: https://mawopugu.github.io/UOM/sitemap_index.mawopugu
+Sitemap: https://mawopugu.github.io/REh/sitemap_index.mawopugu
+Sitemap: https://mawopugu.github.io/FMB/sitemap_index.mawopugu
+Sitemap: https://mawopugu.github.io/YQy/sitemap_index.mawopugu
+Sitemap: https://mawopugu.github.io/duf/sitemap_index.mawopugu
+Sitemap: https://mawopugu.github.io/mKH/sitemap_index.mawopugu
+Sitemap: https://mawopugu.github.io/Gsx/sitemap_index.mawopugu
+Sitemap: https://mawopugu.github.io/WsS/sitemap_index.mawopugu
+Sitemap: https://mawopugu.github.io/Cco/sitemap_index.mawopugu
+Sitemap: https://mawopugu.github.io/HOE/sitemap_index.mawopugu
+Sitemap: https://mawopugu.github.io/Xxw/sitemap_index.mawopugu
+Sitemap: https://mawopugu.github.io/kVT/sitemap_index.mawopugu
+Sitemap: https://mawopugu.github.io/iXv/sitemap_index.mawopugu
+Sitemap: https://mawopugu.github.io/XTM/sitemap_index.mawopugu
